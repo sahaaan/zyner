@@ -1,0 +1,47 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter / ML
+# =========================
+.ipynb_checkpoints/
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# =========================
+# Logs & data
+# =========================
+*.log
+logs/
+data/
+datasets/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# Environment variables
+# =========================
+.env
